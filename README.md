@@ -8,9 +8,7 @@ This repository contains the analytical workflow, regulatory scoring logic, and 
 The framework integrates:
 - Regulatory Circularity Quotient (RCQ)
 - Analytic Hierarchy Process (AHP) weighting
-- EUDAMED-based device and market analytics
-- Logistic regression, clustering, and MCDA modelling
-- A two-layer decision-support structure for cross-country comparison
+- EUDAMED-based device and market analytics incl. Logistic regression, clustering, and MCDA modelling
 
 ---
 
