@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: EU Circular Medical Device Adoption Framework (EUCMDAF)
+message: "If you use this repository, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Gonzalez Guevara
+    given-names: Pilar
+
+  - family-names: Zhou
+    given-names: Ramona Mai Chie
+
+  - family-names: Petke
+    given-names: Florian
+
+version: 1.0.0
+
+date-released: March 15th 2026
