@@ -116,3 +116,10 @@ This repository provides:
 - EUDAMED data preparation workflows  
 - device category mapping (EMDN-based)
 
+## Citation
+
+If you use this repository, please cite:
+
+Gonzalez Guevara, P., Zhou, R., & Petke, F. (2026). 
+EU Circular Medical Device Adoption Framework (EUCMDAF): Code and AHP calculation files [Computer software]. 
+GitHub. https://github.com/pliar/DataAnalyticsforCircularDigitalHealth
