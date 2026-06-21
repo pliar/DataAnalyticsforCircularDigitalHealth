@@ -1,18 +1,31 @@
 cff-version: 1.2.0
-title: EU Circular Medical Device Adoption Framework (EUCMDAF)
-message: "If you use this repository, please cite it as follows."
-type: software
+message: "If you use this repository, please cite it as below."
+title: "EU Circular Medical Device Adoption Framework (EUCMDAF): Code, RCQ scoring files, and AHP weighting scheme"
+version: "1.0.0"
+date-released: "2026-06-21"
+url: "https://github.com/pliar/DataAnalyticsforCircularDigitalHealth"
 
 authors:
-  - family-names: Gonzalez Guevara
-    given-names: Pilar
+  - family-names: "Gonzalez Guevara"
+    given-names: "Pilar"
+    affiliation: "Freie Universität Berlin"
+    roles: ["author", "software"]
+  - family-names: "Zhou"
+    given-names: "R."
+    roles: ["author", "software"]
+  - family-names: "Petke"
+    given-names: "Florian"
+    roles: ["author", "data curator", "methodology"]
 
-  - family-names: Zhou
-    given-names: Ramona Mai Chie
-
-  - family-names: Petke
-    given-names: Florian
-
-version: 1.0.0
-
-date-released: March 15th 2026
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Gonzalez Guevara"
+      given-names: "Pilar"
+    - family-names: "Zhou"
+      given-names: "R."
+    - family-names: "Petke"
+      given-names: "Florian"
+  title: "EU Circular Medical Device Adoption Framework (EUCMDAF): Code and AHP/RCQ calculation files"
+  year: 2026
+  url: "https://github.com/pliar/DataAnalyticsforCircularDigitalHealth"
