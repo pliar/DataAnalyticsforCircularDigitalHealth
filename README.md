@@ -20,19 +20,20 @@ The repository provides:
 
 ## Repository Structure
 
-### notebooks/
+### analysis/
 
-Contains the Jupyter notebook used for the CRISP-DM workflow:
+The analysis folder contains the complete Jupyter notebook used throughout the CRISP-DM process together with the original source files required for execution.
 
-* Data understanding
-* Data preparation
-* Feature engineering
-* Modeling
-* Evaluation
+The notebook performs:
 
-### source/
+* data understanding,
+* data preparation,
+* feature engineering,
+* modeling,
+* evaluation.
 
-Contains the original EUDAMED tables and external reference files.
+The accompanying `source/` directory contains the EUDAMED tables and external reference files used during the analysis. Keeping the notebook and source data in the same directory preserves the original file paths and enables straightforward reproduction of the analytical workflow.
+
 
 ### ahp/
 
